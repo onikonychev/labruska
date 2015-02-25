@@ -1,3 +1,5 @@
+# Labruska – node.js API for easy e-stores creation
+
 ### Just a backend, frontend is up to you
 
 Labruska API is a Node.js/Postgres based Json API for a light or enterprise e-stores. You are free to host your e-store on Express.js or any other Node.js web server or plug it to your existing website.
