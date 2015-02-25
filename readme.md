@@ -56,6 +56,7 @@ api.products.createOrUpdate product, (err, savedProd)->
    console.log savedProd
 ```
 
+
 See full API:
 
 - [Stores API](https://github.com/onikonychev/labruska/wiki/Stores-API)
