@@ -15,6 +15,7 @@ Labruska API is a Node.js/Postgres based Json API for a light or enterprise e-st
 5. Create multiple stores on one server with one DB. Multi-tenancy is realized in shared-schema mode.
 
 ### Usage examples
+
 ##### Get products with filter
 
 ```coffee
